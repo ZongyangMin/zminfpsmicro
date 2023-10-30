@@ -2,4 +2,4 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/[Aa]rtifact[Dd][Bb]
+/[Ll]ibrary/[Aa]rtifact[Dd][Bb]/
